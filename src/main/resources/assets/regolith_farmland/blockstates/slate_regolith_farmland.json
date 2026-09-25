@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "regolith_farmland:block/slate_regolith_farmland"
+    },
+    "moisture=1": {
+      "model": "regolith_farmland:block/slate_regolith_farmland"
+    },
+    "moisture=2": {
+      "model": "regolith_farmland:block/slate_regolith_farmland"
+    },
+    "moisture=3": {
+      "model": "regolith_farmland:block/slate_regolith_farmland"
+    },
+    "moisture=4": {
+      "model": "regolith_farmland:block/slate_regolith_farmland"
+    },
+    "moisture=5": {
+      "model": "regolith_farmland:block/slate_regolith_farmland"
+    },
+    "moisture=6": {
+      "model": "regolith_farmland:block/slate_regolith_farmland"
+    },
+    "moisture=7": {
+      "model": "regolith_farmland:block/slate_regolith_farmland_moist"
+    }
+  }
+}

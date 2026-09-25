@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "regolith_farmland:beige_limestone_regolith_farmland",
+    "regolith_farmland:conglomerate_regolith_farmland",
+    "regolith_farmland:dolomite_regolith_farmland",
+    "regolith_farmland:gabbro_regolith_farmland",
+    "regolith_farmland:granodiorite_regolith_farmland",
+    "regolith_farmland:grey_limestone_regolith_farmland",
+    "regolith_farmland:kimberlite_regolith_farmland",
+    "regolith_farmland:limestone_regolith_farmland",
+    "regolith_farmland:mudstone_regolith_farmland",
+    "regolith_farmland:phyllite_regolith_farmland",
+    "regolith_farmland:quartzite_regolith_farmland",
+    "regolith_farmland:rhyolite_regolith_farmland",
+    "regolith_farmland:sandstone_regolith_farmland",
+    "regolith_farmland:siltstone_regolith_farmland",
+    "regolith_farmland:slate_regolith_farmland",
+    "regolith_farmland:stone_regolith_farmland",
+    "regolith_farmland:white_granite_regolith_farmland"
+  ]
+}
